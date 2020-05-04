@@ -39,21 +39,23 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
+    <title>0xfxxker</title>
     <link href="http://yoursite.com/2016/03/30/123/"/>
     <id>http://yoursite.com/2016/03/30/123/</id>
-    <published>2016-03-30T13:18:02.000Z</published>
-    <updated>2020-05-04T09:36:57.119Z</updated>
+    <published>2016-03-30T13:12:21.000Z</published>
+    <updated>2020-05-04T09:37:49.624Z</updated>
     
-    <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <div class="hbe-input-container">  <input type="password" id="hbePass" placeholder="" />    <label for="hbePass">Welcome to my blog, enter password to read.</label>    <div class="bottom-line"></div>  </div>  <script id="hbeData" type="hbeData" data-hmacdigest="176a5ef45e3fd88d7598b54541375976e8944aac85afa998cbbcc0ffe9480464">8f6935f947da09ecaa6b7f07a24d2c65</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <div class="hbe-input-container">  <input type="password" id="hbePass" placeholder="" />    <label for="hbePass">您好, 这里需要密码.</label>    <div class="bottom-line"></div>  </div>  <script id="hbeData" type="hbeData" data-hmacdigest="383fb8f2ea5171219c3bf81b75a9c3ce1209c6e8117fbac3aa9ed296541e2360">efa047241e971872ecd0778527c664b1</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
     
     <summary type="html">
     
-      Welcome to my blog, enter password to read.
+      有东西被加密了, 请输入密码查看.
     
     </summary>
     
     
+    
+      <category term="作为日记加密" scheme="http://yoursite.com/tags/%E4%BD%9C%E4%B8%BA%E6%97%A5%E8%AE%B0%E5%8A%A0%E5%AF%86/"/>
     
   </entry>
   
