@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-15T03:24:54.940Z</updated>
+  <updated>2020-05-15T03:30:59.561Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,26 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>1 - 副本</title>
-    <link href="http://yoursite.com/2020/05/15/1%20-%20%E5%89%AF%E6%9C%AC/"/>
-    <id>http://yoursite.com/2020/05/15/1%20-%20%E5%89%AF%E6%9C%AC/</id>
+    <title>picture</title>
+    <link href="http://yoursite.com/2020/05/15/picture/"/>
+    <id>http://yoursite.com/2020/05/15/picture/</id>
+    <published>2020-05-15T03:30:59.000Z</published>
+    <updated>2020-05-15T03:30:59.561Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2</title>
+    <link href="http://yoursite.com/2020/05/15/2/"/>
+    <id>http://yoursite.com/2020/05/15/2/</id>
     <published>2020-05-15T03:24:26.888Z</published>
-    <updated>2020-05-15T03:24:54.940Z</updated>
+    <updated>2020-05-15T03:26:20.815Z</updated>
     
     <content type="html"><![CDATA[<p><a href="http://45.32.88.31/python3/1/03h5007977p0_wk1600x1600.jpg" target="_blank" rel="noopener">http://45.32.88.31/python3/1/03h5007977p0_wk1600x1600.jpg</a></p>]]></content>
     
