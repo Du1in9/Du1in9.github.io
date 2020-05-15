@@ -338,28 +338,6 @@
   <div class="powered-by">Powered by <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://mist.theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Mist</a>
   </div>
 
-//前面需要引入fancybox的css和js，这里省略
-<secrpt>
-(function() {
-  //前面部分是判断是标签否为图集的文章，根据需求可以舍弃
-  var arr = new Array();
-  var $tags = $('.post-tags').children('a');
-  $tags.each(function() {
-    arr.push($(this).html())
-  })
-  if (arr.indexOf("图集") !== -1) {
-    //如果是图集
-    $('.hj_img').each(function() {
-      $(this).wrap('<a class="fancybox" data-fancybox="gallery" href="' + $(this).prop("src") + '"></a>'); 
-    })
-    //初始化fancybox，padding设为0，loop设为false
-    $('.fancybox').fancybox({
-      padding: 0,
-      loop: false
-    });
-  }
-})();
-</script>
 
 
         
