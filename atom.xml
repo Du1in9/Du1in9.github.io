@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-17T02:35:09.918Z</updated>
+  <updated>2020-05-17T03:00:05.380Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="http://yoursite.com/2020/05/17/%E7%88%AC%E5%9B%BE/"/>
     <id>http://yoursite.com/2020/05/17/%E7%88%AC%E5%9B%BE/</id>
     <published>2020-05-17T02:21:21.163Z</published>
-    <updated>2020-05-17T02:35:09.918Z</updated>
+    <updated>2020-05-17T03:00:05.380Z</updated>
     
-    <content type="html"><![CDATA[<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;% raw %&#125;&lt;meta name&#x3D;&quot;viewport&quot; content&#x3D;&quot;width&#x3D;device-width, initial-scale&#x3D;1&quot;&gt;&lt;style&gt;body &#123;font-family: Arial;&#125;&#x2F;* Style the tab *&#x2F;.tab &#123;  overflow: hidden;  border: 1px solid #ccc;  background-color: #f1f1f1;&#125;&#x2F;* Style the buttons inside the tab *&#x2F;.tab button &#123;  background-color: inherit;  float: left;  border: none;  outline: none;  cursor: pointer;  padding: 14px 16px;  transition: 0.3s;  font-size: 17px;&#125;&#x2F;* Change background color of buttons on hover *&#x2F;.tab button:hover &#123;  background-color: #ddd;&#125;&#x2F;* Create an active&#x2F;current tablink class *&#x2F;.tab button.active &#123;  background-color: #ccc;&#125;&#x2F;* Style the tab content *&#x2F;.tabcontent &#123;  display: none;  padding: 6px 12px;  border: 1px solid #ccc;  border-top: none;&#125;&lt;&#x2F;style&gt;&lt;p&gt;Tabs&lt;&#x2F;p&gt;&lt;p&gt;Click on the buttons inside the tabbed menu:&lt;&#x2F;p&gt;&lt;div class&#x3D;&quot;tab&quot;&gt;  &lt;button class&#x3D;&quot;tablinks&quot; onclick&#x3D;&quot;openCity(event, &#39;London&#39;)&quot;&gt;London&lt;&#x2F;button&gt;  &lt;button class&#x3D;&quot;tablinks&quot; onclick&#x3D;&quot;openCity(event, &#39;Paris&#39;)&quot;&gt;Paris&lt;&#x2F;button&gt;  &lt;button class&#x3D;&quot;tablinks&quot; onclick&#x3D;&quot;openCity(event, &#39;Tokyo&#39;)&quot;&gt;Tokyo&lt;&#x2F;button&gt;&lt;&#x2F;div&gt;&lt;div id&#x3D;&quot;London&quot; class&#x3D;&quot;tabcontent&quot;&gt;  &lt;h3&gt;London&lt;&#x2F;h3&gt;  &lt;p&gt;London is the capital city of England.&lt;&#x2F;p&gt;&lt;&#x2F;div&gt;&lt;div id&#x3D;&quot;Paris&quot; class&#x3D;&quot;tabcontent&quot;&gt;  &lt;h3&gt;Paris&lt;&#x2F;h3&gt;  &lt;p&gt;Paris is the capital of France.&lt;&#x2F;p&gt; &lt;&#x2F;div&gt;&lt;div id&#x3D;&quot;Tokyo&quot; class&#x3D;&quot;tabcontent&quot;&gt;  &lt;h3&gt;Tokyo&lt;&#x2F;h3&gt;  &lt;p&gt;Tokyo is the capital of Japan.&lt;&#x2F;p&gt;&lt;&#x2F;div&gt;&lt;script&gt;function openCity(evt, cityName) &#123;  var i, tabcontent, tablinks;  tabcontent &#x3D; document.getElementsByClassName(&quot;tabcontent&quot;);  for (i &#x3D; 0; i &lt; tabcontent.length; i++) &#123;    tabcontent[i].style.display &#x3D; &quot;none&quot;;  &#125;  tablinks &#x3D; document.getElementsByClassName(&quot;tablinks&quot;);  for (i &#x3D; 0; i &lt; tablinks.length; i++) &#123;    tablinks[i].className &#x3D; tablinks[i].className.replace(&quot; active&quot;, &quot;&quot;);  &#125;  document.getElementById(cityName).style.display &#x3D; &quot;block&quot;;  evt.currentTarget.className +&#x3D; &quot; active&quot;;&#125;&lt;&#x2F;script&gt;&#123;% endraw %&#125;</span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% raw %&#125;</span><br><span class="line">&lt;script src&#x3D;&quot;http:&#x2F;&#x2F;59.110.157.4&#x2F;picture&#x2F;ctrl.php&quot;&gt;&lt;&#x2F;script&gt;</span><br><span class="line">&#123;% endraw %&#125;</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span cla
+        &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class
       
     
     </summary>
